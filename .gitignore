@@ -1,7 +1,11 @@
 # For copyright reasons the data is not shared, sources are included in readme
-data/*
+data/companies
+data/indices     
+data/kaggle
 
 
+#Python
+.ipynb_checkpoints/
 
 # Mac 
 .DS_Store
