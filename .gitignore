@@ -2,7 +2,7 @@
 data/companies
 data/indices     
 data/kaggle
-
+data/reuters
 
 #Python
 .ipynb_checkpoints/
