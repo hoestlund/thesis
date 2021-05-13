@@ -4,6 +4,9 @@ data/indices/cboe
 data/kaggle
 data/reuters
 
+# Here I keep the iextoken
+data/secret.txt
+
 #Python
 .ipynb_checkpoints/
 
