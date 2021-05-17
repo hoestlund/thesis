@@ -5,8 +5,7 @@ Repository for all the research for my final project as part of my degree "Compu
 
 ## Research Aims
 i) See how sentiment can be used to predict broad market returns
-ii) See if news data can be used in forecasting performance of indivuals sectors and companies
-iii) See how the impacts of the spread and fight against corona impacted returns
+ii) See if news data can be used in forecasting performance of individual sectors and companies
 
 
 ## Data Sources
